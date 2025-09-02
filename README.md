@@ -4,4 +4,4 @@ Este é um projeto Python inicial com estrutura organizada e ambiente virtual `.
 
 ## Como rodar
 
-python src/main.py# Meu primeiro repositório
+python src/main.py
